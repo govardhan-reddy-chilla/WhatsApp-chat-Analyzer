@@ -20,33 +20,6 @@ If you are using VisualStudio Code, create a virrtual environment and then insta
 
     python app.py
 
-# Result
-
-## Monthly Timeline
-
-
-
-
-
-
-![App Screenshot](http://localhost:8502/media/875ebe100164e93827ce9ba1a8ccd33e8e1c672ba21d045196c4eeae.png)
-
-## Daily Timeline
-![App Screenshot](http://localhost:8502/media/de756b1763b3d3fcf0c8c04d7290be0802fea9bfc504791bc2437e61.png)
-
-## Activity Map
-### Most busy day
-![App Screenshot](http://localhost:8502/media/1dd48d0786dde8ddca562bcf633a93a49f8f56f0a82bc62dd465d790.png)
-### Most busy month
-![App Screenshot](http://localhost:8502/media/adec1533a2eb280828007e249b99cbf1a0f5893b0e301369fe2c7e3d.png)
-
-## Weekly Activity Map
-![App Screenshot](http://localhost:8502/media/3deae0b0c6749bf9532cc66b8395b28813c1b6671e270904440e340f.png)
-
-## Wordcloud
-![App Screenshot](http://localhost:8502/media/43a0a4b15958ab9c67fcd8fb67a63872b268e7f67592889ac302c7bb.png)
-
-
 # Conclusion
 The WhatsApp Chat Analyzer offers a unique lens through which to view and understand our digital conversations. By providing detailed insights into messaging patterns, participant dynamics, and the emotional undertones of chats, this tool empowers users to uncover hidden aspects of their communication habits.
 
